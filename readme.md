@@ -26,7 +26,7 @@ The tool performs ARP spoofing by sending crafted ARP response packets to a targ
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/YOUR_USERNAME/netreaper.git](https://github.com/YOUR_USERNAME/netreaper.git)
+    git clone https://github.com/Mystery-World3/netreaper.git
     cd netreaper
     ```
 
