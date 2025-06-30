@@ -52,7 +52,7 @@ The tool performs ARP spoofing by sending crafted ARP response packets to a targ
     # source venv/bin/activate # macOS/Linux
 
     # Install requirements
-    pip install scapy rich
+    pip install -r requirements.txt
     ```
 
 4.  **Configure the Script:**
