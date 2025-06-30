@@ -56,9 +56,8 @@ The tool places the attacker's machine in the middle of the communication betwee
     # source venv/bin/activate # On macOS/Linux
 
     # Install requirements
-    pip install scapy scapy-http rich
+    pip install -r requirements.txt
     ```
-    *(You can also create a `requirements.txt` file for this.)*
 
 4.  **Configure the Script**
     Open `netreaper.py` (or `main.py`) in a text editor and set the `target_ip` and `gateway_ip` variables to match your network configuration. You can use **LANspector** to find the correct IPs.
