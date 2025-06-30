@@ -68,3 +68,8 @@ The tool performs ARP spoofing by sending crafted ARP response packets to a targ
     sudo python netreaper.py
     ```
     Press `Ctrl+C` to stop the attack and restore the network.
+
+    ---
+
+*Created by Mystery-World3*
+
